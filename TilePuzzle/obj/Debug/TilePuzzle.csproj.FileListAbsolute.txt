@@ -1,0 +1,14 @@
+F:\Workspace\TilePuzzle\TilePuzzle\bin\Debug\TilePuzzle.exe.config
+F:\Workspace\TilePuzzle\TilePuzzle\bin\Debug\TilePuzzle.exe
+F:\Workspace\TilePuzzle\TilePuzzle\bin\Debug\TilePuzzle.pdb
+F:\Workspace\TilePuzzle\TilePuzzle\obj\Debug\TilePuzzle.csprojResolveAssemblyReference.cache
+F:\Workspace\TilePuzzle\TilePuzzle\obj\Debug\MainWindow.g.cs
+F:\Workspace\TilePuzzle\TilePuzzle\obj\Debug\App.g.cs
+F:\Workspace\TilePuzzle\TilePuzzle\obj\Debug\TilePuzzle_MarkupCompile.cache
+F:\Workspace\TilePuzzle\TilePuzzle\obj\Debug\TilePuzzle_MarkupCompile.lref
+F:\Workspace\TilePuzzle\TilePuzzle\obj\Debug\MainWindow.baml
+F:\Workspace\TilePuzzle\TilePuzzle\obj\Debug\TilePuzzle.g.resources
+F:\Workspace\TilePuzzle\TilePuzzle\obj\Debug\TilePuzzle.Properties.Resources.resources
+F:\Workspace\TilePuzzle\TilePuzzle\obj\Debug\TilePuzzle.csproj.GenerateResource.Cache
+F:\Workspace\TilePuzzle\TilePuzzle\obj\Debug\TilePuzzle.exe
+F:\Workspace\TilePuzzle\TilePuzzle\obj\Debug\TilePuzzle.pdb
